@@ -1,0 +1,4 @@
+"scripts": {
+    "start": "node index",
+    "test": “node index.test | tap-spec"
+    },
